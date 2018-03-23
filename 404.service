@@ -1,0 +1,7 @@
+[Unit]
+Description = 404 micro-service
+
+[Service]
+ExecStart = /home/dgodd/workspace/systemdsocket/systemdsocket
+User = dgodd
+Group = dgodd
